@@ -1,6 +1,6 @@
 <?php
 
-namespace Firebase;
+namespace*Firebase;
 
 use PHPUnit\Framework\TestCase;
 
@@ -95,3 +95,4 @@ class FirebaseStubTest extends TestCase
         $this->assertEquals(null, $actualResponse);
     }
 }
+ 
